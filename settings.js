@@ -3,14 +3,14 @@ const chalk = require('chalk')
 
 
 //contact details
-global.ownernomer = "918137051715"
+global.ownernomer = "918891131521"
 global.ownername = "ElitePro"
 global.ytname = "YT: @ElitePro-Empire"
 global.socialm = "GitHub: Elite-MD"
 global.location = "Nigeria, Port Harcourt"
 
 
-global.ownernumber = '918137051715'  //creator number
+global.ownernumber = '9188991131521:'  //creator number
 global.ownername = 'ElitePro' //owner name
 global.botname = 'ELITE-PRO-V1' //name of the bot
 
@@ -33,8 +33,8 @@ global.autoswview = true //auto view status/story
 global.welcome = true // or false to disable
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'Elite-Pro\n\nContact: +2348109263390'
+global.packname = 'Sticker Boy'
+global.author = 'Elite-Pro\n\nContact: +918891131521'
 
 //set your menu picture
 global.elitepropp = 'https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg' //menu and thumb picture
